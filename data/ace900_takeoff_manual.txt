@@ -1,0 +1,49 @@
+**AeroCraft ACE-900 Operations Manual: Normal Procedures - Takeoff**
+
+**Section ID: NP-TO**
+
+**Overview:**
+This section outlines the standard procedures for takeoff in the AeroCraft ACE-900 under normal operating conditions. Adherence to these steps ensures safety and optimal aircraft performance.
+
+**Phase 1: Pre-Takeoff Checklist (ID: NP-TO-P1)**
+*   **Action:** Perform Pre-Takeoff Checklist items thoroughly.
+*   **Key Items:**
+    *   Brakes (ID: NP-TO-P1-ITEM1): Check SET. Status: Checked.
+    *   Flaps (ID: NP-TO-P1-ITEM2): Set to 15 DEGREES. Target Value: 15 deg.
+    *   Engine Instruments (ID: NP-TO-P1-ITEM3): Check ALL GREEN. Status: Normal.
+    *   Flight Controls (ID: NP-TO-P1-ITEM4): Check FREE AND CORRECT movement. Status: Checked.
+    *   Transponder (ID: NP-TO-P1-ITEM5): Set ALTITUDE REPORTING mode. Mode: ALT.
+
+**Phase 2: Taxiing (ID: NP-TO-P2)**
+*   **Action:** Taxi aircraft to the assigned runway.
+*   **Parameters:**
+    *   Taxi Speed (ID: NP-TO-P2-PARAM1): Maintain maximum 20 KNOTS. Limit: 20 kts.
+    *   Steering (ID: NP-TO-P2-PARAM2): Use RUDDER PEDALS primarily, supplement with DIFFERENTIAL BRAKING if needed. Control: Rudder/Brakes.
+    *   Lookout (ID: NP-TO-P2-PARAM3): Maintain constant VIGILANCE for other traffic and obstacles. Action: Scan.
+
+**Phase 3: Before Takeoff (ID: NP-TO-P3)**
+*   **Action:** Position aircraft on runway and prepare for takeoff roll.
+*   **Steps:**
+    *   Line Up (ID: NP-TO-P3-STEP1): Align aircraft with RUNWAY CENTERLINE. Action: Align.
+    *   Brakes (ID: NP-TO-P3-STEP2): HOLD firmly. Action: Hold.
+    *   Engine Power (ID: NP-TO-P3-STEP3): Set TAKEOFF POWER (Approximately 95% N1). Target Value: 95% N1.
+    *   Annunciators (ID: NP-TO-P3-STEP4): Check ALL CLEAR (No warning/caution lights). Status: Clear.
+    *   Release Brakes (ID: NP-TO-P3-STEP5): Release SMOOTHLY upon confirmation of stable power and clear annunciators. Action: Release.
+
+**Phase 4: Takeoff Roll (ID: NP-TO-P4)**
+*   **Action:** Accelerate aircraft down the runway.
+*   **Procedures:**
+    *   Directional Control (ID: NP-TO-P4-PROC1): Maintain CENTERLINE using RUDDER. Control: Rudder.
+    *   Airspeed Monitoring (ID: NP-TO-P4-PROC2): Monitor airspeed indicator closely. Action: Monitor.
+    *   Rotate Speed (Vr) (ID: NP-TO-P4-PROC3): Defined as 75 KNOTS. Target Value: 75 kts.
+    *   Rotation (ID: NP-TO-P4-PROC4): At Vr, apply smooth back pressure on CONTROL COLUMN to lift nosewheel. Action: Rotate.
+
+**Phase 5: Initial Climb (ID: NP-TO-P5)**
+*   **Action:** Establish positive climb profile after liftoff.
+*   **Steps:**
+    *   Landing Gear (ID: NP-TO-P5-STEP1): RETRACT once positive rate of climb is established. Action: Retract Gear. Condition: Positive Climb Rate.
+    *   Flaps (ID: NP-TO-P5-STEP2): RETRACT passing 400 FT AGL and minimum safe maneuvering speed. Action: Retract Flaps. Condition: >400ft AGL & Safe Speed.
+    *   Climb Speed (Vy) (ID: NP-TO-P5-STEP3): Establish climb at 85 KNOTS for best rate of climb. Target Value: 85 kts.
+    *   Power Adjustment (ID: NP-TO-P5-STEP4): Reduce to CLIMB POWER (Approximately 90% N1) as appropriate. Target Value: 90% N1.
+
+**End of Section NP-TO**
