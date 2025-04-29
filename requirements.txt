@@ -1,0 +1,12 @@
+streamlit
+langchain
+langchain-openai
+huggingface-hub 
+langchain-community
+networkx
+python-dotenv
+faiss-cpu # Or faiss-gpu if you have CUDA setup
+tiktoken # Required by Langchain/OpenAI
+beautifulsoup4 # For potential future web scraping/document loading
+lxml # Parser often needed with BS4/Langchain loaders
+plotly
