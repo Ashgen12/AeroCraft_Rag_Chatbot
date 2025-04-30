@@ -295,8 +295,8 @@ def visualize_knowledge_graph_plotly(G, filename="static/kg_visualization.html")
         # 4. Create the Figure
         fig = go.Figure(data=[edge_trace, node_trace],
                      layout=go.Layout(
-                        # title='<br>AeroCraft Knowledge Graph', # Optional title
-                        titlefont_size=16,
+                        title=dict(text='AeroCraft Knowledge Graph', font=dict(size=16)),
+                        # titlefont_size=16,
                         showlegend=False,
                         hovermode='closest',
                         margin=dict(b=20,l=5,r=5,t=40),
